@@ -1,0 +1,6 @@
+﻿polars.eager.series.DateTimeNameSpace.minute
+============================================
+
+.. currentmodule:: polars.eager.series
+
+.. automethod:: DateTimeNameSpace.minute

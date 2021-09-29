@@ -1,0 +1,6 @@
+﻿polars.eager.series.ListNameSpace.reverse
+=========================================
+
+.. currentmodule:: polars.eager.series
+
+.. automethod:: ListNameSpace.reverse

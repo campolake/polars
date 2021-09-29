@@ -1,0 +1,6 @@
+﻿polars.map\_binary
+==================
+
+.. currentmodule:: polars
+
+.. autofunction:: map_binary

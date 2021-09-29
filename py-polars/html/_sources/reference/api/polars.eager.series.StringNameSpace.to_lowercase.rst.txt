@@ -1,0 +1,6 @@
+﻿polars.eager.series.StringNameSpace.to\_lowercase
+=================================================
+
+.. currentmodule:: polars.eager.series
+
+.. automethod:: StringNameSpace.to_lowercase

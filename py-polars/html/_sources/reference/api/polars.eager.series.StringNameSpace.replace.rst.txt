@@ -1,0 +1,6 @@
+﻿polars.eager.series.StringNameSpace.replace
+===========================================
+
+.. currentmodule:: polars.eager.series
+
+.. automethod:: StringNameSpace.replace

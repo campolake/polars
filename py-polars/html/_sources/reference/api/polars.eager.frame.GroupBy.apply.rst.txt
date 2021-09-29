@@ -1,0 +1,6 @@
+﻿polars.eager.frame.GroupBy.apply
+================================
+
+.. currentmodule:: polars.eager.frame
+
+.. automethod:: GroupBy.apply

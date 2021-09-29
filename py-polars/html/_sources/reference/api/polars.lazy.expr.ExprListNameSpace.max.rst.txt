@@ -1,0 +1,6 @@
+﻿polars.lazy.expr.ExprListNameSpace.max
+======================================
+
+.. currentmodule:: polars.lazy.expr
+
+.. automethod:: ExprListNameSpace.max

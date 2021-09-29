@@ -1,0 +1,6 @@
+﻿polars.LazyFrame.drop\_column
+=============================
+
+.. currentmodule:: polars
+
+.. automethod:: LazyFrame.drop_column

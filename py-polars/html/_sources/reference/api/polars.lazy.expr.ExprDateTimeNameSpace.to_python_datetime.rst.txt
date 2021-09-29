@@ -1,0 +1,6 @@
+﻿polars.lazy.expr.ExprDateTimeNameSpace.to\_python\_datetime
+===========================================================
+
+.. currentmodule:: polars.lazy.expr
+
+.. automethod:: ExprDateTimeNameSpace.to_python_datetime

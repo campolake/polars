@@ -1,0 +1,6 @@
+﻿polars.lazy.expr.ExprDateTimeNameSpace.day
+==========================================
+
+.. currentmodule:: polars.lazy.expr
+
+.. automethod:: ExprDateTimeNameSpace.day

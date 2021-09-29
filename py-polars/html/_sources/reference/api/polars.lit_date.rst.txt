@@ -1,0 +1,6 @@
+﻿polars.lit\_date
+================
+
+.. currentmodule:: polars
+
+.. autofunction:: lit_date

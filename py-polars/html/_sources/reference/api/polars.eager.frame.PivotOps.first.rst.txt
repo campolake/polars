@@ -1,0 +1,6 @@
+﻿polars.eager.frame.PivotOps.first
+=================================
+
+.. currentmodule:: polars.eager.frame
+
+.. automethod:: PivotOps.first

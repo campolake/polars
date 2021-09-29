@@ -1,0 +1,6 @@
+﻿polars.to\_list
+===============
+
+.. currentmodule:: polars
+
+.. autofunction:: to_list

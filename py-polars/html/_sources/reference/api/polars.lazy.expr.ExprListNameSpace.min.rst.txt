@@ -1,0 +1,6 @@
+﻿polars.lazy.expr.ExprListNameSpace.min
+======================================
+
+.. currentmodule:: polars.lazy.expr
+
+.. automethod:: ExprListNameSpace.min

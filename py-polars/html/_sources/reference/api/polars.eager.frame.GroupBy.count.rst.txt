@@ -1,0 +1,6 @@
+﻿polars.eager.frame.GroupBy.count
+================================
+
+.. currentmodule:: polars.eager.frame
+
+.. automethod:: GroupBy.count

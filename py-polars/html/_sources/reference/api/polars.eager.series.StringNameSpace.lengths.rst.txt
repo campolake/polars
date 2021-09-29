@@ -1,0 +1,6 @@
+﻿polars.eager.series.StringNameSpace.lengths
+===========================================
+
+.. currentmodule:: polars.eager.series
+
+.. automethod:: StringNameSpace.lengths

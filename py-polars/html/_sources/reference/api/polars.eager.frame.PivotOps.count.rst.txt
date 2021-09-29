@@ -1,0 +1,6 @@
+﻿polars.eager.frame.PivotOps.count
+=================================
+
+.. currentmodule:: polars.eager.frame
+
+.. automethod:: PivotOps.count

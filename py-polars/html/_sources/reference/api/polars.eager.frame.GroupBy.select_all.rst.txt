@@ -1,0 +1,6 @@
+﻿polars.eager.frame.GroupBy.select\_all
+======================================
+
+.. currentmodule:: polars.eager.frame
+
+.. automethod:: GroupBy.select_all

@@ -1,0 +1,6 @@
+﻿polars.lazy.expr.ExprDateTimeNameSpace.timestamp
+================================================
+
+.. currentmodule:: polars.lazy.expr
+
+.. automethod:: ExprDateTimeNameSpace.timestamp

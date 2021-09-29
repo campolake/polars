@@ -1,0 +1,6 @@
+﻿polars.eager.frame.GroupBy.min
+==============================
+
+.. currentmodule:: polars.eager.frame
+
+.. automethod:: GroupBy.min

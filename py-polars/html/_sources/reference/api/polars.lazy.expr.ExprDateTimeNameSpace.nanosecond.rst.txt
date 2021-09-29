@@ -1,0 +1,6 @@
+﻿polars.lazy.expr.ExprDateTimeNameSpace.nanosecond
+=================================================
+
+.. currentmodule:: polars.lazy.expr
+
+.. automethod:: ExprDateTimeNameSpace.nanosecond

@@ -1,0 +1,6 @@
+﻿polars.lazy.expr.ExprDateTimeNameSpace.weekday
+==============================================
+
+.. currentmodule:: polars.lazy.expr
+
+.. automethod:: ExprDateTimeNameSpace.weekday

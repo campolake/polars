@@ -1,0 +1,6 @@
+﻿polars.lazy.frame.LazyGroupBy.head
+==================================
+
+.. currentmodule:: polars.lazy.frame
+
+.. automethod:: LazyGroupBy.head

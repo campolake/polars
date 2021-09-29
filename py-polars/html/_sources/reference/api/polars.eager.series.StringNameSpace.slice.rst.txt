@@ -1,0 +1,6 @@
+﻿polars.eager.series.StringNameSpace.slice
+=========================================
+
+.. currentmodule:: polars.eager.series
+
+.. automethod:: StringNameSpace.slice

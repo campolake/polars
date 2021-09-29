@@ -1,0 +1,6 @@
+﻿polars.lazy.expr.ExprListNameSpace.mean
+=======================================
+
+.. currentmodule:: polars.lazy.expr
+
+.. automethod:: ExprListNameSpace.mean

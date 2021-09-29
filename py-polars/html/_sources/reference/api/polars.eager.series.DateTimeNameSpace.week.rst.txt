@@ -1,0 +1,6 @@
+﻿polars.eager.series.DateTimeNameSpace.week
+==========================================
+
+.. currentmodule:: polars.eager.series
+
+.. automethod:: DateTimeNameSpace.week

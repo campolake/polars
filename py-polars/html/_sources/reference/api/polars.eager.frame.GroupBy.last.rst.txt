@@ -1,0 +1,6 @@
+﻿polars.eager.frame.GroupBy.last
+===============================
+
+.. currentmodule:: polars.eager.frame
+
+.. automethod:: GroupBy.last

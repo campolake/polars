@@ -1,0 +1,6 @@
+﻿polars.lazy.expr.ExprStringNameSpace.to\_uppercase
+==================================================
+
+.. currentmodule:: polars.lazy.expr
+
+.. automethod:: ExprStringNameSpace.to_uppercase
